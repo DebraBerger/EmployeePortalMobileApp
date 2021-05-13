@@ -1,1 +1,2 @@
 # EmployeePortalMobileApp
+@media screen and {min-device-width: 481px}
